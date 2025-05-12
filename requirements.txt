@@ -1,0 +1,5 @@
+opencv
+pandas
+ultralytics
+jiwer
+
